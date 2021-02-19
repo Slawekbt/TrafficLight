@@ -1,9 +1,7 @@
 ﻿// TrafficLightSystem.cpp : Ten plik zawiera funkcję „main”. W nim rozpoczyna się i kończy wykonywanie programu.
 //
 
-
 #include <iostream>
-#include <Windows.h> // for Sleep() facility
 
 #include "TrafficManagement.h"
 
